@@ -6,7 +6,7 @@ Meu nome e _Arian Silva Oliveira_
 - Estou me desenvolvendo na Linguagem JavaScript
 - Utilizo esse espaço para compartilhar meus projetos desenvolvidos
 
-  ## voce pode entrar em contato comigo 📝
+  ## voce pode entrar em contato comigo 📫
 
 _arian.oliveira@escola.pr.gov.br_
 
