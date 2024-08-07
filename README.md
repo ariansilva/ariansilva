@@ -1,16 +1,16 @@
-## Hi there 👋
+## 💈 Boas Vindas ao meu perfil 💈
 
-<!--
-**ariansilva/ariansilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e _Arian Silva Oliveira_
 
-Here are some ideas to get you started:
+- Estou estudando no alura
+- Estou me desenvolvendo na Linguagem JavaScript
+- Utilizo esse espaço para compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## voce pode entrar em contato comigo 📝
+
+_arian.oliveira@escola.pr.gov.br_
+
+
+![](https://media1.tenor.com/m/tP7v1dUc2y0AAAAd/ronaldinho-ronaldinho-gaucho.gif)
+
+
