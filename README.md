@@ -8,8 +8,9 @@ Meu nome e _Arian Silva Oliveira_
 
   ## voce pode entrar em contato comigo 📫
 
-_arian.oliveira@escola.pr.gov.br_
+_arian.oliveira@escola.pr.gov.br_ 
 
+_@ariansilvazx_
 
 ![](https://media1.tenor.com/m/tP7v1dUc2y0AAAAd/ronaldinho-ronaldinho-gaucho.gif)
 
