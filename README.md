@@ -10,7 +10,6 @@ Meu nome e _Arian Silva Oliveira_
 
 _arian.oliveira@escola.pr.gov.br_ 
 
-_44991049075_
 
 ![](https://media1.tenor.com/m/tP7v1dUc2y0AAAAd/ronaldinho-ronaldinho-gaucho.gif)
 
