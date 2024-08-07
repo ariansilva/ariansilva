@@ -1,4 +1,4 @@
-## 🏁 Boas Vindas ao meu perfil 🏁
+## 🏁 Seja Bem Vindo ao meu perfil 🏁
 
 Meu nome e _Arian Silva Oliveira_
 
@@ -6,7 +6,7 @@ Meu nome e _Arian Silva Oliveira_
 - Estou me desenvolvendo na Linguagem JavaScript
 - Utilizo esse espaço para compartilhar meus projetos desenvolvidos
 
-  ## voce pode entrar em contato comigo 📫
+  ## voce pode entrar em contato comigo no email abaixo 📫
 
 _arian.oliveira@escola.pr.gov.br_ 
 
